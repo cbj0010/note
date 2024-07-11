@@ -1,0 +1,19 @@
+.navIcon {
+    align-items: flex-start;
+    border: blue;
+    /* border-blue-500 border-2 */
+}
+
+/*
+.f-start {
+    justify-content: flex-end;
+}
+
+.flex {
+     justify-between; 
+    justify-items: flex-end;
+}
+*/
+.flex_log {
+    justify-content: space-around;
+}
